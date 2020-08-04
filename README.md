@@ -23,7 +23,7 @@ apt-get install curl dnsutils whois -y
 - Clone this repo
 
 ```
-git clone https://github.com/greycatz/CloudUnflare.git
+git clone https://github.com/greycatz/Cloudflare-bypass.git
 ```
 
 ## Command:
